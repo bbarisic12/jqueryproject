@@ -1,0 +1,19 @@
+{
+  "name": "jqueryproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbarisic12/jqueryproject.git"
+  },
+  "author": "Branimir Barisic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbarisic12/jqueryproject/issues"
+  },
+  "homepage": "https://github.com/bbarisic12/jqueryproject#readme"
+}
